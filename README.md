@@ -18,7 +18,7 @@ This project utilizes the OpenAI API to create a personalized chatbot. Let's bre
 
 The OpenAI API is integrated into the chatbot in the following steps:
 
-1. **Initialization**: The API key for OpenAI is provided at the beginning of the script (`OPENAI_API_KEY = "sk-PHzh89333124kjfd38493jjfdk84035i5Z"`).
+1. **Initialization**: Generate the API key for OpenAI (`OPENAI_API_KEY = "***"`).
 
 2. **User Interaction**: Users upload a PDF document through the Streamlit interface and input their questions into a text input field.
 
