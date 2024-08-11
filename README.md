@@ -1,5 +1,5 @@
 # GenAIChatbot_OpenAI-Integration-Assistant
-The GenAI-OpenAI Chatbot is an innovative solution that leverages the power of general artificial intelligence (GenAI) and the OpenAI API to create a personalized and intelligent conversational assistant. This chatbot enables users to interact with a sophisticated AI model capable of answering a wide range of questions based on uploaded documents.
+The GenAI-OpenAI Chatbot is an innovative solution that leverages the power of generative artificial intelligence (GenAI) and the OpenAI API to create a personalized and intelligent conversational assistant. This chatbot enables users to interact with a sophisticated AI model capable of answering a wide range of questions based on uploaded documents.
 # Chatbot Project
 
 This project utilizes the OpenAI API to create a personalized chatbot. Let's break down what's happening in the code:
